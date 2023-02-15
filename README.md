@@ -1,5 +1,6 @@
 # Instructions to set up Managed Solution for the provided requirement
 <h3>Pre-Deployment Steps</h3>
+
 1. Need to have Customer Service App enabled for the CRM Organization.
 
 2. Create the following three business units
@@ -21,6 +22,7 @@ While Import It will Ask for connection do provide or create connection from Sys
 
 
 <h3>Post-Deployment Steps</h3>
+
 1. All the Team User need to have "Basic User" Security Role to access the org.
 
 2. Assign "Team Security Role" to all the above created teams

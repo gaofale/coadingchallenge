@@ -1,12 +1,12 @@
 # Instructions to set up Managed Solution for the provided requirement
 <h3>Pre-Deployment Steps</h3>
-
-1. Create the following three business units
+1. Need to have Customer Service App enabled for the CRM Organization. 
+2. Create the following three business units
 	i.   Underground
 	ii.  Buses
 	iii. Overground
 	
-2. Create the following teams (team type owner) in their respective BUs
+3. Create the following teams (team type owner) in their respective BUs
 	i.   Underground Escalation Team
 	ii.  Underground Confidential Case Team
 	iii. Overground Escalation Team

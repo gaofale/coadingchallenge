@@ -1,6 +1,7 @@
 # Instructions to set up Managed Solution for the provided requirement
 <h3>Pre-Deployment Steps</h3>
-1. Need to have Customer Service App enabled for the CRM Organization. 
+1. Need to have Customer Service App enabled for the CRM Organization.
+
 2. Create the following three business units
 	i.   Underground
 	ii.  Buses

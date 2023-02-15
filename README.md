@@ -16,6 +16,7 @@
   
 <h3>Deploy the Managed Solution</h3>
 Deploy CoadingChallenge_1_0_0_0_managed.zip file to CRM
+While Import It will Ask for connection do provide or create connection from System Admin Account.
 
 
 <h3>Post-Deployment Steps</h3>
